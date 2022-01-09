@@ -1,7 +1,10 @@
-### Hi there, i'm Casper aka. cap [website] 👋 
-
-![Website](https://refinedrp.net/)
-
+### Hi there, i'm Casper aka. cap 👋 
+---
+Currently working on:
+- 🌐 https://refinedrp.net
+- 📋 Schedules
+- 🤠 Myself
+---
 ## I'm a Leading Manager and a Graphics Designer.
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
